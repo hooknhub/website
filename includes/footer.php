@@ -125,8 +125,8 @@
     </div>
 </footer>
 <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-<!--<script async defer
+<script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAH6oZQsYIHLiFFQgEB42XetuBBtAMOk5M&callback=initMap">
-</script>-->
+</script>
 <script src = "js/map_front.js"></script>
 <script src = "js/map.frony.js"<script> src = "js" </script>
